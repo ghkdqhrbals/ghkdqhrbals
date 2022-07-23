@@ -1,6 +1,6 @@
 Hwangbo Gyumin
 
-Email : ghkdqhrbals@naver.com
+Email : ghkdqhrbals@gmail.com
 
 [EDUCATION]
 
