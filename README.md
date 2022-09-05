@@ -1,6 +1,6 @@
 Hwangbo Gyumin
 
-Email : ghkdqhrbals@gmail.com
+Email : ghkdqhrbals@gmail.com   
 Development Blog : https://ghkdqhrbals.github.io
 
 [EDUCATION]
