@@ -1,15 +1,14 @@
-Hwangbo Gyumin
+Gyumin Hwangbo
 
 Email : ghkdqhrbals@gmail.com   
-Development Blog : https://ghkdqhrbals.github.io
+Development Blog : https://ghkdqhrbals.github.io   
+Portfolio : http://portfolio.hwangbogyumin.com    
 
-[EDUCATION]
-
+## EDUCATION
+* Master's degree in Computer Science and Engineering, Pusan National University, 2022.
 * Bachelor's degree in Computer Science and Engineering, Pusan National University, 2020.
 
-* Master's degree in Computer Science and Engineering, Pusan National University, 2022.
-
-[INTEREST]
+## INTEREST
 
 * Computer Security
 
