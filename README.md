@@ -1,7 +1,11 @@
 ## Gyumin Hwangbo
 
 Email : ghkdqhrbals@gmail.com   
-Portfolio & Development Blog : [https://ghkdqhrbals.github.io/portfolios](https://ghkdqhrbals.github.io/portfolios)
+Portfolio & Development Blog : [https://ghkdqhrbals.github.io/portfolios](https://ghkdqhrbals.github.io/portfolios)   
+
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gyumin-hwangbo-92382218b/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/hb_traveller/)
+
 
 ### EDUCATION
 * Master's degree in Computer Science and Engineering, Pusan National University, 2022.
