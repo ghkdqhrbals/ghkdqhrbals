@@ -32,3 +32,6 @@ Portfolio & Development Blog : [https://ghkdqhrbals.github.io/portfolios](https:
   * Consensus : PoW/PoS
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fghkdqhrbals&count_bg=%2348BC22&title_bg=%23820F0F&icon=whatsapp.svg&icon_color=%23BEB0B0&title=hits+&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+![Gyumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghkdqhrbals&theme=dark&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghkdqhrbals&layout=compact&theme=dark)|
