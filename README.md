@@ -6,6 +6,14 @@ Portfolio & Development Blog : [https://ghkdqhrbals.github.io/portfolios](https:
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gyumin-hwangbo-92382218b/)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/hb_traveller/)
 
+### EXPERIENCE
+* Senior Researcher(inc. FOXEE) 2023.06 ~ present
+  * role : Developed web service
+  * skill : Java, Spring-Boot/Cloud/Security, JPA, RDB, Redis, Kafka, Docker, etc.
+* Intern(inc. Fulse) 2020.01 ~ 2020.02
+  * role : Developed DB snap-shot program
+  * skill : Python, Selenium
+
 
 ### EDUCATION
 * Master's degree in Computer Science and Engineering, Pusan National University, 2022.
