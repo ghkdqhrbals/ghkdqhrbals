@@ -8,12 +8,28 @@ Portfolio & Development Blog : [https://ghkdqhrbals.github.io/portfolios](https:
 
 ### EXPERIENCE
 * Senior Researcher(inc. FOXEE) 2023.06 ~ present
-  * role : Developed web service
+  * role : developed AI web service
   * skill : Java, Spring-Boot/Cloud/Security, JPA, RDB, Redis, Kafka, Docker, etc.
 * Intern(inc. Fulse) 2020.01 ~ 2020.02
-  * role : Developed DB snap-shot program
+  * role : developed DB snap-shot program
   * skill : Python, Selenium
 
+### SKILL
+* Web Backend
+  * language : Java, Golang
+  * platform : Spring-Boot/Cloud/Security/Data-JPA, Gin
+  * database : PostgreSQL, Redis, ELK stack
+  * cloud    : AWS route-53, EC2, RDS
+  * infra    : Kafka, Docker
+  * test     : Junit5, Mockito, Gmock
+  * build    : Gradle
+  * tool     : IntelliJ, Visual Studio Code
+  * env      : Linux
+* Web Front
+  * language : html, css
+* Blockchain
+  * Network : Modified Kademlia DHT(Ethereum Client's Network Implementation in Geth 1.9.25v)
+  * Consensus : PoW/PoS
 
 ### EDUCATION
 * Master's degree in Computer Science and Engineering, Pusan National University, 2022.
@@ -22,23 +38,6 @@ Portfolio & Development Blog : [https://ghkdqhrbals.github.io/portfolios](https:
 ### INTEREST
 * Web Backend Development
 * Blockchain Security
-
-### SKILL
-* Web Backend
-  * Java, Golang
-  * Spring Boot, Spring Data JPA, Spring Cloud, Spring Security, Spring WebFlux, Gin
-  * Junit5, Mockito, Gmock
-  * Gradle
-  * IntelliJ, Visual Studio Code
-* Web DevOps
-  * PostgreSQL, ELK stack
-  * AWS route-53, EC2, RDS
-  * Kafka, Docker
-  * Linux
-* Blockchain
-  * Network : Modified Kademlia DHT(Ethereum Client's Network Implementation in Geth 1.9.25v)
-  * Consensus : PoW/PoS
-
 
 ![Gyumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghkdqhrbals&theme=github&show_icons=true)  ![commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ghkdqhrbals&theme=github&exclude=SCSS,html)
 
