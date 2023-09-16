@@ -26,7 +26,7 @@ as **Java Backend Developer**
   * build    : Gradle
   * tool     : IntelliJ, Visual Studio Code
   * env      : Linux
-> * Blockchain Network([Geth 1.9.25v](https://github.com/ethereum/go-ethereum/tree/release/1.9))
+> * Ethereum Blockchain Network([Geth 1.9.25v](https://github.com/ethereum/go-ethereum/tree/release/1.9))
 > * Web Front
 >   * language : html, css
 
