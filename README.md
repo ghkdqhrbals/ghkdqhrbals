@@ -26,13 +26,13 @@ as **Java Backend Developer**
   * build    : Gradle
   * tool     : IntelliJ, Visual Studio Code
   * env      : Linux
-* Blockchain Network(Modified Kademlia DHT)
-> which is Ethereum Client's Network Implementation in Geth 1.9.25v
-* Web Front
-  * language : html, css
+> * Blockchain Network([Geth 1.9.25v](https://github.com/ethereum/go-ethereum/tree/release/1.9))
+> * Web Front
+>   * language : html, css
 
 ### EDUCATION
 * Master's degree in Computer Science and Engineering, Pusan National University, 2022.
+> 논문 : [https://scienceon.kisti.re.kr/srch/selectPORSrchArticleOrgnl.do?cn=DIKO0016457502#](https://scienceon.kisti.re.kr/srch/selectPORSrchArticleOrgnl.do?cn=DIKO0016457502#)
 * Bachelor's degree in Computer Science and Engineering, Pusan National University, 2020.
 
 ### INTEREST
