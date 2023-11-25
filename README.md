@@ -19,21 +19,25 @@ as **Java Backend Developer**
   * language : Java(+Golang)
   * platform : Spring-Boot/Cloud/Security/Data-JPA(+Gin)
   * database : PostgreSQL(+Redis, ELK stack)
-  * cloud    : AWS route-53, EC2, RDS
-  * infra    : Kafka, Docker
+  * cloud    : AWS route-53, EC2, RDS, ECR
+  * infra    : Kafka, Docker(+Kubernetes)
   * test     : Junit5, Mockito(+Gmock)
   * build    : Gradle
+  * CI/CD    : Git Actions, Shell Script
   * tool     : IntelliJ, Visual Studio Code
   * env      : Linux
-> * Ethereum Blockchain Network([Geth 1.9.25v](https://github.com/ethereum/go-ethereum/tree/release/1.9))
-> * Web Front
->   * language : html, css
+* Blockchain Attack
+  * platform : Ethereum Client(Geth 1.9.25 version)
+  * Ethereum Blockchain Network([Geth 1.9.25v](https://github.com/ethereum/go-ethereum/tree/release/1.9))
+* Web Front
+  * language : html, css
+  * platform : thymeleaf
 
 ### EDUCATION
 * Master's degree in Computer Science and Engineering, Pusan National University, 2022.
-> 논문 : [https://scienceon.kisti.re.kr/srch/selectPORSrchArticleOrgnl.do?cn=DIKO0016457502#](https://scienceon.kisti.re.kr/srch/selectPORSrchArticleOrgnl.do?cn=DIKO0016457502#)
+> check paper : [https://scienceon.kisti.re.kr/srch/selectPORSrchArticleOrgnl.do?cn=DIKO0016457502#](https://scienceon.kisti.re.kr/srch/selectPORSrchArticleOrgnl.do?cn=DIKO0016457502#)
 * Bachelor's degree in Computer Science and Engineering, Pusan National University, 2020.
 
 ### INTEREST
 * Web Backend Development
-* Blockchain Security
+* Process Automation
