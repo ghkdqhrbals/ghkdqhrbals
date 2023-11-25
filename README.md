@@ -2,7 +2,6 @@
 as **Java Backend Developer**
 
 **Email**      : ghkdqhrbals@gmail.com   
-**Profolio**   : [notion site](https://accurate-allspice-e0a.notion.site/2d0bcbb42a5b43e0a4e77138bf881675)    
 **Blog**       : [https://ghkdqhrbals.github.io/portfolios](https://ghkdqhrbals.github.io/portfolios)   
 **LinkedIn**   : [https://www.linkedin.com/in/gyumin-hwangbo-92382218b/](https://www.linkedin.com/in/gyumin-hwangbo-92382218b/)    
 **Instagram**  : [https://www.instagram.com/hb_traveller/](https://www.instagram.com/hb_traveller/)    
