@@ -7,7 +7,7 @@ as **Java Backend Developer**
 **Instagram**  : [https://www.instagram.com/hb_traveller/](https://www.instagram.com/hb_traveller/)    
 
 ### EXPERIENCE
-* Senior Researcher(inc. FOXEE) 2023.06 ~ present
+* Senior Researcher(inc. FOXEE) 2023.06 ~ 2023.12
   * role : developed AI web service
   * skill : Java, Spring-Boot/Cloud/Security, JPA, RDB, Redis, Kafka, Docker, etc.
 * Intern(inc. Fulse) 2020.01 ~ 2020.02
@@ -19,8 +19,8 @@ as **Java Backend Developer**
   * language : Java(+Golang)
   * platform : Spring-Boot/Cloud/Security/Data-JPA(+Gin)
   * database : PostgreSQL(+Redis, ELK stack)
-  * cloud    : AWS route-53, EC2, RDS, ECR
-  * infra    : Kafka, Docker(+Kubernetes)
+  * cloud    : AWS Route-53, EC2, RDS, ECR, EKS, Cloud-Watch
+  * infra    : Kafka, Docker, Kubernetes
   * test     : Junit5, Mockito(+Gmock)
   * build    : Gradle
   * CI/CD    : Git Actions, Shell Script
