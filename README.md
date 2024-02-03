@@ -39,5 +39,5 @@ as **Java Backend Developer**
 * Bachelor's degree in Computer Science and Engineering, Pusan National University, 2020.
 
 ### INTEREST
+* Automation for everything
 * Web Backend Development
-* Process Automation
