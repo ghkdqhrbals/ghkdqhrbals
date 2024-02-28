@@ -7,7 +7,7 @@ as **Java Backend Developer**
 **Instagram**  : [https://www.instagram.com/hb_traveller/](https://www.instagram.com/hb_traveller/)    
 
 ### EXPERIENCE
-* Senior Researcher(inc. FOXEE) 2023.06 ~ 2023.12
+* Senior Researcher(inc. FOXEE) 2023.06 ~ 2024.01
   * role : developed AI web service
   * skill : Java, Spring-Boot/Cloud/Security, JPA, RDB, Redis, Kafka, Docker, etc.
 * Intern(inc. Fulse) 2020.01 ~ 2020.02
