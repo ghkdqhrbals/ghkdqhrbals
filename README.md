@@ -7,6 +7,8 @@ as **Java Backend Developer**
 **Instagram**  : [https://www.instagram.com/hb_traveller/](https://www.instagram.com/hb_traveller/)    
 
 ### EXPERIENCE
+* Backend Engineer(inc. fooddash) 2024.04 ~ present
+ * Kotlin, Spring-Boot, AWS, ...
 * Senior Researcher(inc. FOXEE) 2023.06 ~ 2024.01
   * role : developed AI web service
   * skill : Java, Spring-Boot/Cloud/Security, JPA, RDB, Redis, Kafka, Docker, etc.
