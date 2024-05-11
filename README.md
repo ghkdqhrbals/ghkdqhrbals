@@ -8,19 +8,20 @@ as **Java Backend Developer**
 
 ### EXPERIENCE
 * Backend Engineer(inc. fooddash) 2024.04 ~ present
- * Kotlin, Spring-Boot, AWS, ...
+  * role : develop kyochon backend
+  * skill : Kotlin, Spring-Boot, AWS, ...
 * Senior Researcher(inc. FOXEE) 2023.06 ~ 2024.01
-  * role : developed AI web service
+  * role : develop AI web service
   * skill : Java, Spring-Boot/Cloud/Security, JPA, RDB, Redis, Kafka, Docker, etc.
 * Intern(inc. Fulse) 2020.01 ~ 2020.02
-  * role : developed DB snap-shot program
+  * role : develop DB snap-shot program
   * skill : Python, Selenium
 
 ### SKILL
 * Web Backend
-  * language : Java(+Golang)
+  * language : Java & Kotlin(+Golang)
   * platform : Spring-Boot/Cloud/Security/Data-JPA(+Gin)
-  * database : PostgreSQL(+Redis, ELK stack)
+  * database : PostgreSQL(+Redis, ELK stack), current MYSQL
   * cloud    : AWS Route-53, EC2, RDS, ECR, EKS, Cloud-Watch
   * infra    : Kafka, Docker, Kubernetes
   * test     : Junit5, Mockito(+Gmock)
