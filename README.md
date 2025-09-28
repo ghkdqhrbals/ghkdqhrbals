@@ -16,3 +16,5 @@ as **Java Backend Developer**
 * Backend Development
 
 ![Gyumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghkdqhrbals&show_icons=true&count_private=true)
+
+![Gyumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggyuumin&show_icons=true&count_private=true)
