@@ -14,3 +14,5 @@ as **Java Backend Developer**
 ### INTEREST
 * Automation for everything
 * Backend Development
+
+![Gyumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghkdqhrbals&show_icons=true&count_private=true)
