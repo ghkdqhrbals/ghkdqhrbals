@@ -14,7 +14,3 @@ as **Java Backend Developer**
 ### INTEREST
 * Automation for everything
 * Backend Development
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=ghkdqhrbals&show_icons=true"
-/>
